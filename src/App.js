@@ -3,8 +3,8 @@ import Navbar from "./navbar/navbar";
 function App() {
   return (
     <div className="App">
-      <p>Hello From App.js</p>
-      <Navbar />
+      {/* <p>Hello From App.js</p> */}
+      {/* <Navbar name={"ali"} /> */}
     </div>
   );
 }
